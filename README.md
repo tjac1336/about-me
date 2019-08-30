@@ -6,7 +6,7 @@
 - [Hosted Page](https://tjac1336.github.io/about-me/)
  
 ## About
-This repo will be used throughout the semester to add different repo links to and used as a website that employers could come to to see what work I have done.  
+This repo will be used as a guide to explain some web development tips and tricks along with how to create a repository using GitHub
 
 ## Recommended Tools
 This will explain some of the basics of creating a repo. 
