@@ -1,1 +1,7 @@
-introduction text
+I am an undergraduate senior at Northwest Missouri State University majoring in Computer Science.  I am graduating this December (if I pass all my classes this semester).  
+
+I am from Liberty, Missouri and had 0 programming exposure before coming to Northwest for computer science.  I enjoy hanging out with friends and playing Xbox in my free time. 
+
+I am not sure what I will be doing after graduation, I plan on applying to jobs starting next week.  I would be interested in front end development or possibly software engineering.  
+
+Something interesting about me is that I am an ordained minister.  Here is the link to my LinkedIn: https://www.linkedin.com/in/tyler-jacobson/
