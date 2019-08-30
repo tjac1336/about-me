@@ -26,6 +26,8 @@ This will explain some of the basics of creating a repo.
 Bellow you will find a few links to helpful resources for web development
 
 [Here](https://github.com/kamranahmedse/developer-roadmap) is one covering a roadmap for development
+
 [Here](https://github.com/google/WebFundamentals) is one covering web fundamentals for modern web development
+
 [Here](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) is one full of other resources for learning full stack development
 
