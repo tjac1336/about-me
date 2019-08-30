@@ -31,3 +31,7 @@ Bellow you will find a few links to helpful resources for web development
 
 [Here](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) is one full of other resources for learning full stack development
 
+## Contributors
+Tyler Jacobson - studies Computer Science at Northwest Missouri State University
+Below is a place I'd rather be right now.  The image can be found at https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2018/09/swiss-alps.jpg
+![Mountains](https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2018/09/swiss-alps.jpg)
