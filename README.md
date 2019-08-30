@@ -20,4 +20,12 @@ This will explain some of the basics of creating a repo.
 7. Pull to your machine using git bash and work locally if you would like
 8. Make sure to commit and push all wanted changes
 
--- [here](https://www.youtube.com/watch?v=WfhRyz3Wf4o) is a link if you would like some more info
+[Here](https://www.youtube.com/watch?v=WfhRyz3Wf4o) is a link if you would like some more info
+
+## Recommended Resources
+Bellow you will find a few links to helpful resources for web development
+
+[Here](https://github.com/kamranahmedse/developer-roadmap) is one covering a roadmap for development
+[Here](https://github.com/google/WebFundamentals) is one covering web fundamentals for modern web development
+[Here](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) is one full of other resources for learning full stack development
+
