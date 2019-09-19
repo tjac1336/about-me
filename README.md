@@ -38,4 +38,4 @@ Below is a place I'd rather be right now.  The image can be found at https://img
 ![Mountains](https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2018/09/swiss-alps.jpg)
 
 
-CSS for the page was taken from bootswatch.com/cyborg
+CSS for the page was taken from bootswatch.com/darkly
