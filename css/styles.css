@@ -8,3 +8,9 @@ img {
   margin-right: auto;
   width: 75%;
 }
+
+#footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
