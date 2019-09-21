@@ -39,4 +39,5 @@ Below is a place I'd rather be right now.  The image can be found at https://img
 
 
 CSS for the page was taken from bootswatch.com/darkly
-A lot of the div tags were also taken from that site
+
+A lot of div tags and elements were taken from that site
