@@ -6,7 +6,8 @@
 - [Hosted Page](https://tjac1336.github.io/about-me/)
  
 ## About
-This repo will be used as a guide to explain some web development tips and tricks along with how to create a repository using GitHub
+This README will be used as a guide to explain some web development tips and tricks along with how to create a repository using GitHub.
+The website tells you a little bit about me, has a contact page, and a binary converter.  
 
 ## Recommended Tools
 This will explain some of the basics of creating a repo. 
