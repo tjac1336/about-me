@@ -47,43 +47,45 @@
 
     <main class="container-fluid">
 
-            <div class="row">
-                <div class="col-md-4"></div>
-                <div class="col-md-4">
-                    <h1>Convert to Binary!</h1>
-                </div>
-                <div class="col-md-4"></div>
+        <div class="row">
+            <div class="col-md-4"></div>
+            <div class="col-md-4">
+                <h1>Convert to Binary!</h1>
             </div>
+            <div class="col-md-4"></div>
+        </div>
 
-            <br>
+        <br>
 
-            <div class="row">
-                <div class="col-md-4"></div>
-                <div class="col-md-4">
-                    <input type="text" placeholder="15">
-                </div>
-                <div class="col-md-4"></div>
+        <div class="row">
+            <div class="col-md-4"></div>
+            <div class="col-md-2">
+                <input type="text" placeholder="15" id="originalNum">
             </div>
-
-            <br> 
-
-            <div class="row">
-                <div class="col-md-4"></div>
-                <div class="col-md-4">
-                    <button>Calculate!</button>
-                </div>
-                <div class="col-md-4"></div>
+            <div class="col-md-2">
+                <label id="binaryNum">num goes here</label>
             </div>
+        </div>
 
-            <br> 
-            
-            <div class="row">
-                <div class="col-md-4"></div>
-                <div class="col-md-4">
-                    <p id="binaryNum"></p>
-                </div>
-                <div class="col-md-4"></div>
+        <br>
+
+        <div class="row">
+            <div class="col-md-4"></div>
+            <div class="col-md-4">
+                <button id="calculate">Calculate!</button>
             </div>
+            <div class="col-md-4"></div>
+        </div>
+
+        <br>
+
+        <div class="row">
+            <div class="col-md-4"></div>
+            <div class="col-md-4">
+                <label>Binary calculator has been used <span id="times">0</span> times</label>
+            </div>
+            <div class="col-md-4"></div>
+        </div>
 
     </main>
 
@@ -100,6 +102,8 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
         integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
         crossorigin="anonymous"></script>
+
+    <script src="./scr/scripts.js"></script>
 
 </body>
 
